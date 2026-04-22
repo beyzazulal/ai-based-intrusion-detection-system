@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+api_feedback.csv
+*.log
+*.pkl
